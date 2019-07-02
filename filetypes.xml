@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="extract-content-tmpljsp" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="ocx" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
