@@ -4,7 +4,7 @@
     <property name="created">2019-07-02T16:03:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-07-02T17:21:48</property>
+    <property name="modified">2019-07-03T09:25:02</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -472,7 +472,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="8f9d6a" />
+        <option name="FOREGROUND" value="dfe211" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -544,8 +544,8 @@
     </option>
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cda869" />
-        <option name="EFFECT_COLOR" value="cda869" />
+        <option name="FOREGROUND" value="fc9d9a" />
+        <option name="EFFECT_COLOR" value="fc9d9a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -568,7 +568,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="8f9d6a" />
+        <option name="FOREGROUND" value="bcca8a" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -857,7 +857,7 @@
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="9b859d" />
+        <option name="FOREGROUND" value="cfd4cd" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2664,7 +2664,7 @@
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="e58308" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
