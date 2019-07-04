@@ -2,12 +2,16 @@
   <component name="PowerModeII">
     <option name="blueFrom" value="99" />
     <option name="blueTo" value="214" />
+    <option name="customBamImageFolder" value="C:\Users\能讯-陶瑾轩\Desktop" />
+    <option name="customFlameImageFolder" value="C:\Users\能讯-陶瑾轩\Desktop" />
     <option name="flamesEnabled" value="false" />
     <option name="greenFrom" value="99" />
     <option name="greenTo" value="218" />
     <option name="heatup" value="0" />
     <option name="redFrom" value="101" />
     <option name="redTo" value="214" />
+    <option name="shakeEnabled" value="false" />
+    <option name="soundsFolder" value="C:\Users\能讯-陶瑾轩\Desktop" />
     <option name="sparkSize" value="9" />
   </component>
 </application>
