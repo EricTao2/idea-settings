@@ -34,8 +34,12 @@
           <option name="url" value="http://192.168.1.222:8090" />
           <option name="userName" value="TJX" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/b3log/solo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Development Programs\IntelliJ IDEA 2018.1.5\IdeaProjects" />
+    <option name="cloneParentDir" value="D:\Development Programs\IntelliJ IDEA 2019.1.3\IdeaProjects" />
   </component>
 </application>
